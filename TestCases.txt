@@ -1,0 +1,4 @@
+Test Cases for posting an image:
+1. Posting Image from Device Memory
+2. Posting Image from Camera
+3. Posting Image as Article
